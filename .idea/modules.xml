@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/H2Demo.iml" filepath="$PROJECT_DIR$/.idea/H2Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/H2TestDemo/H2TestDemo.iml" filepath="$PROJECT_DIR$/H2TestDemo/H2TestDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/H2TestDemo-SSM/H2TestDemo-SSM.iml" filepath="$PROJECT_DIR$/H2TestDemo-SSM/H2TestDemo-SSM.iml" />
+    </modules>
+  </component>
+</project>

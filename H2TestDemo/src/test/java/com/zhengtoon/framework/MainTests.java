@@ -23,7 +23,7 @@ import java.util.List;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest(classes = Application.class)
-@EnableConfigurationProperties
+//@EnableConfigurationProperties
 public class MainTests {
 	@Autowired
 	ZfbAppConfigServiceImpl zfbAppConfigServiceImpl;

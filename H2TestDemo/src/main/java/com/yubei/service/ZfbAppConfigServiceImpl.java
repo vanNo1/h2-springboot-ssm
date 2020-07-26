@@ -1,5 +1,5 @@
 /**
- * 
+ *
  */
 package com.yubei.service;
 
@@ -13,7 +13,6 @@ import org.springframework.stereotype.Service;
 
 @Service
 public class ZfbAppConfigServiceImpl implements ZfbAppConfigService {
-
 
 
     @Autowired

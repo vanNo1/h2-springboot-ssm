@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.yubei.service;
 
 
@@ -20,13 +18,13 @@ public class ZfbAppConfigServiceImpl implements ZfbAppConfigService {
     private ZfbAppConfigMapper zfbAppConfigMapper;
 
 
-    @Override
+
     public int insert(ZfbAppConfig zfbAppConfig) {
         return zfbAppConfigMapper.insert(zfbAppConfig);
 
     }
 
-    @Override
+
     public ZfbAppConfig getAppConfigByAppCofigId(Long appConfigId) {
         return zfbAppConfigMapper.selectConfigByAppId(appConfigId);
     }
